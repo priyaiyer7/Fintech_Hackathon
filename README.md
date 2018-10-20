@@ -13,7 +13,7 @@ Topic Objective and Background:
 
 The objective of the topic is to identify major issues that customers are facing in terms of  range of consumer financial products and services
 offered by financial institutions.
-We aim to identify services that have the most number of issues and perform Topic Modeling on consumer complaints to get an indepth insight
+We aim to identify services that have the most number of consumer complaints and perform Topic Modeling to get an indepth insight
 on the key issues that the customers are facing.
 
 The data for this problem has been collected from the Consumer Complaint Database. The Consumer Complaint Database is a collection of complaints on a range of consumer financial products and services, sent to companies for response.  
