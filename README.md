@@ -21,6 +21,7 @@ They help consumers connect with financial companies to understand issues with t
 harassment from debt collectors, and get direct responses about problems with their credit cards, checking and savings accounts, 
 student loans, and more. We analyze the data to identify trends and problems in the marketplace 
 to help us do a better job supervising companies, enforcing federal consumer financial laws and writing rules and regulations.
+The database updates daily, and contains information for each complaint such as source of the complaint, the date of submission, and the company the complaint was raised.
 
 
 
